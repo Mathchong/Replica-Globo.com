@@ -7,9 +7,6 @@ Este repositório contém o primeiro projeto desenvolvido no curso **Driven Educ
 - [Introdução](#introdução)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Rodar o Projeto](#como-rodar-o-projeto)
-- [Recursos](#recursos)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Introdução
 
